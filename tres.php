@@ -1,1 +1,3 @@
-g<?php
+<?php
+
+print "kiyo meto";
